@@ -41,4 +41,4 @@ Khi kết thúc phần thứ ba, bạn sẽ có thể viết mã tăng tốc GPU
 * Hiểu biết ở mức độ cao về một số thuật ngữ khoa học máy tính như phân bổ bộ nhớ, loại giá trị, độ trễ và lõi xử lý.
 * Hiểu biết cơ bản về vectơ và ma trận, cũng như phép nhân ma trận.
 
-**Note**: Chi tiết của mỗi phần năm trong từng thư mục của mỗi phần.
+**Note**: Chi tiết của mỗi phần nằm trong từng thư mục của mỗi phần.
