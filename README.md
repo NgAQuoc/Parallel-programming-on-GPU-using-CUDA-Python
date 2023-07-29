@@ -1,5 +1,7 @@
 #  Fundamentals of Accelerated Computing with CUDA Python
 
+Link học lỏm: https://github.com/AydinAlptug/Fundamentals-of-Accelerated-Computing-with-CUDA-Python.git
+
 ##  Giới thiệu về CUDA Python với Numba
 
 Nền tảng tính toán **[CUDA](https://en.wikipedia.org/wiki/CUDA)** cho phép tăng tốc ứng dụng nhanh chóng bằng cách cho phép các developer thực thi code theo kiểu song song hàng loạt trên GPU NVIDA.
